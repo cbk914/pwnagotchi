@@ -9,7 +9,7 @@ tensorflow==1.15.4
 tensorflow-estimator==2.3.0
 tweepy==3.9.0
 file-read-backwards==2.0.0
-numpy==1.19.4
+numpy==1.20.3
 inky==1.1.0
 smbus2==0.3.0
 flask==1.1.2
