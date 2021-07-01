@@ -6,7 +6,7 @@ PyYAML==5.4
 scapy==2.4.5
 gym==0.18.3
 scipy==1.7.0
-stable-baselines==2.10.1
+stable-baselines==2.10.2
 tensorflow==2.4.2
 tensorflow-estimator==2.5.0
 tweepy==3.10.0
