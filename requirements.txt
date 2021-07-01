@@ -1,4 +1,6 @@
+
 pycryptodome==3.10.1
+
 requests==2.25.1
 PyYAML==5.3.1
 scapy==2.4.4
@@ -7,7 +9,7 @@ scipy==1.5.4
 stable-baselines==2.10.1
 tensorflow==1.15.4
 tensorflow-estimator==2.3.0
-tweepy==3.9.0
+tweepy==3.10.0
 file-read-backwards==2.0.0
 numpy==1.19.4
 inky==1.1.0
