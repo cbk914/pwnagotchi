@@ -24,4 +24,4 @@ flask-wtf==0.15.1
 dbus-python==1.2.16
 toml==0.10.2
 python-dateutil==2.8.1
-websockets==8.1
+websockets==9.1
